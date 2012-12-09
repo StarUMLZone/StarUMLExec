@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ADDINMENU addInID="StarUMLExec">
+    <BODY>
+        <MAINMENU>
+            <MAINITEM base="TOOLS" caption="Execute Script" script="src\Script.js"/>
+						<MAINITEM base="TOOLS" caption="Edit Script" script="src\Edit.js"/>
+        </MAINMENU>
+    </BODY>
+</ADDINMENU>
