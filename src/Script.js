@@ -13,8 +13,6 @@ var fileSystem = new ActiveXObject("Scripting.FileSystemObject");
 //******************************************************
 
 staruml.log("Hello world") ;
- staruml.property ) ;
-}
 
 
 
